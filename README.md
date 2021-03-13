@@ -1,2 +1,0 @@
-# IS
-IS Exercises
