@@ -1,0 +1,39 @@
+FolderName;AD Group or User;Acces Control;Permissions;Inherited
+C:\unit7asiggment\Bryan_RB;CREATOR GROUP;Allow;Modify, Synchronize;False
+C:\unit7asiggment\Bryan_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\Bryan_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\Bryan_RB;DESKTOP-J3JNGH0\Bryan_RB;Allow;Write, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\Miriam_RB;CREATOR GROUP;Allow;Modify, Synchronize;False
+C:\unit7asiggment\Miriam_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\Miriam_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\Miriam_RB;DESKTOP-J3JNGH0\Miriam_RB;Allow;Write, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\Ryley_RB;CREATOR GROUP;Allow;Modify, Synchronize;False
+C:\unit7asiggment\Ryley_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\Ryley_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\Ryley_RB;DESKTOP-J3JNGH0\Ryley_RB;Allow;Write, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\Sofia_RB;CREATOR GROUP;Allow;Modify, Synchronize;False
+C:\unit7asiggment\Sofia_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\Sofia_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\Sofia_RB;DESKTOP-J3JNGH0\Sofia_RB;Allow;Write, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\Tory_RB;CREATOR GROUP;Allow;Modify, Synchronize;False
+C:\unit7asiggment\Tory_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\Tory_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\Tory_RB;DESKTOP-J3JNGH0\Tory_RB;Allow;Write, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\entiry_compary;DESKTOP-J3JNGH0\sales.department;Allow;CreateFiles, WriteExtendedAttributes, WriteAttributes, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\entiry_compary;DESKTOP-J3JNGH0\training.department;Allow;CreateFiles, WriteExtendedAttributes, WriteAttributes, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\entiry_compary;BUILTIN\Administrators;Allow;FullControl;True
+C:\unit7asiggment\entiry_compary;NT AUTHORITY\SYSTEM;Allow;FullControl;True
+C:\unit7asiggment\entiry_compary\key_Account_RB;DESKTOP-J3JNGH0\Miriam_RB;Deny;ReadAndExecute;False
+C:\unit7asiggment\entiry_compary\key_Account_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\entiry_compary\key_Account_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\entiry_compary\key_Account_RB;DESKTOP-J3JNGH0\sales.department;Allow;CreateFiles, WriteExtendedAttributes, WriteAttributes, ReadAndExecute, Synchronize;False
+C:\unit7asiggment\entiry_compary\key_Account_RB;DESKTOP-J3JNGH0\training.department;Allow;ReadAndExecute, Synchronize;False
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;DESKTOP-J3JNGH0\training.department;Deny;Read;False
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;DESKTOP-J3JNGH0\Miriam_RB;Deny;ReadAndExecute;True
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;NT AUTHORITY\SYSTEM;Allow;FullControl;True
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;DESKTOP-J3JNGH0\sales.department;Allow;CreateFiles, WriteExtendedAttributes, WriteAttributes, ReadAndExecute, Synchronize;True
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;DESKTOP-J3JNGH0\training.department;Allow;ReadAndExecute, Synchronize;True
+C:\unit7asiggment\entiry_compary\key_Account_RB\confidential.xml;BUILTIN\Administrators;Allow;FullControl;True
+C:\unit7asiggment\entiry_compary\Sales_Department_RB;NT AUTHORITY\SYSTEM;Allow;FullControl;False
+C:\unit7asiggment\entiry_compary\Sales_Department_RB;BUILTIN\Administrators;Allow;FullControl;False
+C:\unit7asiggment\entiry_compary\Sales_Department_RB;DESKTOP-J3JNGH0\sales.department;Allow;WriteAttributes, ReadAndExecute, Synchronize;False
