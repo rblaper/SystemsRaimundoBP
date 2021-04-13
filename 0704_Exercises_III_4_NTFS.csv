@@ -1,0 +1,25 @@
+FolderName;AD Group or User;Permissions;ACL;Inhe
+E:\artistas\hall;DESKTOP-J3JNGH0\albeniz;Read;Deny;False
+E:\artistas\hall;DESKTOP-J3JNGH0\musicians;Modify, Synchronize;Allow;False
+E:\artistas\hall;NT AUTHORITY\SYSTEM;FullControl;Allow;True
+E:\artistas\hall;BUILTIN\Administrators;FullControl;Allow;True
+E:\artistas\hall\donJuan.txt;NT AUTHORITY\SYSTEM;FullControl;Allow;False
+E:\artistas\hall\donJuan.txt;BUILTIN\Administrators;FullControl;Allow;False
+E:\artistas\hall\donJuan.txt;DESKTOP-J3JNGH0\mozart;ReadAndExecute, Synchronize;Allow;False
+E:\artistas\canvas;DESKTOP-J3JNGH0\painters;Modify, Synchronize;Allow;False
+E:\artistas\canvas;NT AUTHORITY\SYSTEM;FullControl;Allow;True
+E:\artistas\canvas;BUILTIN\Administrators;FullControl;Allow;True
+E:\artistas\canvas\louvre;DESKTOP-J3JNGH0\leonardo;Read;Deny;False
+E:\artistas\canvas\louvre;DESKTOP-J3JNGH0\painters;DeleteSubdirectoriesAndFiles, Write, Delete;Deny;False
+E:\artistas\canvas\louvre;DESKTOP-J3JNGH0\painters;Modify, Synchronize;Allow;True
+E:\artistas\canvas\louvre;NT AUTHORITY\SYSTEM;FullControl;Allow;True
+E:\artistas\canvas\louvre;BUILTIN\Administrators;FullControl;Allow;True
+E:\artistas\canvas\prado;DESKTOP-J3JNGH0\leonardo;Read;Deny;False
+E:\artistas\canvas\prado;DESKTOP-J3JNGH0\painters;Modify, Synchronize;Allow;True
+E:\artistas\canvas\prado;NT AUTHORITY\SYSTEM;FullControl;Allow;True
+E:\artistas\canvas\prado;BUILTIN\Administrators;FullControl;Allow;True
+E:\artistas\canvas\prado\lasmeninas.bmp;DESKTOP-J3JNGH0\goya;Read;Deny;False
+E:\artistas\canvas\prado\lasmeninas.bmp;DESKTOP-J3JNGH0\painters;Write, Delete, ChangePermissions, TakeOwnership;Deny;False
+E:\artistas\canvas\prado\lasmeninas.bmp;DESKTOP-J3JNGH0\painters;Modify, Synchronize;Allow;True
+E:\artistas\canvas\prado\lasmeninas.bmp;NT AUTHORITY\SYSTEM;FullControl;Allow;True
+E:\artistas\canvas\prado\lasmeninas.bmp;BUILTIN\Administrators;FullControl;Allow;True
